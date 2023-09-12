@@ -1,4 +1,5 @@
 ### Hi there 👋
+GachonUniv AI.Software college Artificial intelligence major
 
 <!--
 **ChooHoSeong/ChooHoSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
